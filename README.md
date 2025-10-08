@@ -6,6 +6,5 @@ This Chatbot require:
 - Ollama
 - Ollama Python package
 - Ai models supported by ollama
-<br>
 
-The thinking speed of this Ai chatbot depends on the speed of the laptop/computer used to process the Ai model.
+The thinking speed of this Ai chatbot depends on the speed of the laptop/computer used to process the Ai model. for example LLAMA 3.1 is require 5GB of storage to store and run the model
