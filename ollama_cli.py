@@ -8,7 +8,7 @@ WHITE = "\033[97m"
 RESET = "\033[0m"
 
 client = ollama.Client()
-model = "llama3.1:8b"
+model = "gpt-oss:20b-cloud"
 
 print(f"{BLUE}Ollama AI Chat CLI{RESET}")
 print("Loading ...")
