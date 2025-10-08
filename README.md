@@ -1,0 +1,2 @@
+<h1>Ollama CLI Ai Chatbot<h1>
+<p>Ollama CLI is a simple Ai Chatbot using Ollama llm models. this Ai can do so much Ai task with using the Ollama model such as LLAMA, DeepSeek, gpt and other model supported by Ollama python package<p>
